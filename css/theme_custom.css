@@ -10,4 +10,10 @@
 
 .page_body code {
   font-family: 'Ubuntu Mono';
+  border: none;
+  padding: 3px 4px 1px 4px;
+  font-size: 90%;
+  color: #ff4081;
+  background-color: #f9f2f4;
+  border-radius: 4px;
 }
