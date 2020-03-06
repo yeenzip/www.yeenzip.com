@@ -1,0 +1,9 @@
+.md-code-btn {
+  display: inline-block;
+  padding: 2px 5px;
+  font-size: 13px;
+}
+.md-code-btn:hover {
+  cursor: pointer;
+  text-shadow: #000 0 0
+}
