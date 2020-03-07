@@ -8,7 +8,7 @@
   text-shadow: #000 0 0
 }
 
-.page_body code {
+code {
   font-family: 'Ubuntu Mono';
   border: none;
   padding: 3px 4px 1px 4px;
